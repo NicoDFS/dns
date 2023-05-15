@@ -1,16 +1,14 @@
 {
   "name": "degen-domains-frontend",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.17.0"
+  }
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
-  {
-  "engines": {
-    "node": "14.17.0"
-  }
-},
   "dependencies": {
     "@popperjs/core": "^2.11.5",
     "bootstrap": "^5.1.3",
